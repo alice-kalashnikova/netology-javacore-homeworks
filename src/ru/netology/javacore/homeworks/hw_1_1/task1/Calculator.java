@@ -1,4 +1,4 @@
-package ru.netology.javacore.homeworks.hw1.task1;
+package ru.netology.javacore.homeworks.hw_1_1.task1;
 
 import java.util.function.*;
 

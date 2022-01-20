@@ -1,4 +1,4 @@
-package ru.netology.javacore.homeworks.hw1.task2;
+package ru.netology.javacore.homeworks.hw_1_1.task2;
 
 public class Worker {
     private OnTaskDoneListener callback;
